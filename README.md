@@ -27,6 +27,10 @@ De forma resumida: Firma é um projeto opensource com base na **utilidade** e **
 **Humanidade** porque mantém o foco nas contribuições de pessoas iniciantes (ou não), de modo simplificado, da documentação a arquitetura.
 
 
+### Como contribuir?
+
+Preparamos uma documentação para isso: https://github.com/firma-project/info/blob/main/CONTRIBUTING.md
+
 ### Tecnologias usadas
 
 * Frontend
