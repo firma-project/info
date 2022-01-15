@@ -42,3 +42,6 @@ De forma resumida: Firma é um projeto opensource com base na **utilidade** e **
 
 
 ### Agradecimentos
+@alessandraearaujo
+@raavier
+
